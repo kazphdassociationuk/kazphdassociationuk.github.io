@@ -7,7 +7,7 @@ title: Mission
 <p>
 The mission of the Kazakhstan PhD Association in the UK is in line with
 the UN Agenda for Sustainable Development, i.e. to end poverty, protect
-our planet, promote peace, and ensure prosperity for all by achieving SD 
+our planet, promote peace, and ensure prosperity for all by achieving SD
 goals by 2030 and improving the quality of life in Kazakhstan for the
 current and future generations.
 </p>
